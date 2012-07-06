@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+    <xsd-doc file="J:/GG/R66/conf/OpenR66-Server.xsd">
+        <xml-doc file="J:/GG/R66/conf/config-serverA2-2.xml"/>
+    </xsd-doc>
+    <xsd-doc file="J:/GG/R66/conf/OpenR66-Rules.xsd"/>
+    <xsd-doc file="J:/Git/fredericBregier/WaarpR66/src/main/xample/OpenR66-Server.xsd"/>
+    <xsd-doc file="J:/Git/fredericBregier/WaarpR66/src/main/xample/OpenR66-Rules.xsd"/>
+    <xsd-doc file="J:/Git/fredericBregier/WaarpR66/src/main/xample/SnmpConfiguration.xsd"/>
+    <xsd-doc file="J:/Git/fredericBregier/WaarpR66/src/main/xample/OpenR66-SubmitClient.xsd"/>
+    <xsd-doc file="J:/Git/fredericBregier/WaarpR66/src/main/xample/OpenR66-Rule.xsd"/>
+    <xsd-doc file="J:/Git/fredericBregier/WaarpR66/src/main/xample/OpenR66-Limit.xsd"/>
+    <xsd-doc file="J:/Git/fredericBregier/WaarpR66/src/main/xample/OpenR66-ClientNoDB.xsd"/>
+    <xsd-doc file="J:/Git/fredericBregier/WaarpR66/src/main/xample/OpenR66-Authent.xsd"/>
+    <xsd-doc file="J:/Git/fredericBregier/WaarpR66/src/main/xample/OpenR66-Client.xsd"/>
+</history>
