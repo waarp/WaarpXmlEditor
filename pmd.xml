@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="4.3" timestamp="2012-07-06T23:53:48.708">
+<file name="J:\Git\github\waarp-digest\WaarpXmlEditor\src\main\java\com\fg\ftree\GgFTree.java">
+<violation beginline="92" endline="92" begincolumn="37" endcolumn="41" rule="AvoidReassigningParameters" ruleset="Design Rules" package="com.fg.ftree" class="GgFTree" method="findItemIndex" variable="index" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#AvoidReassigningParameters" priority="2">
+Avoid reassigning parameters such as 'index'
+</violation>
+<violation beginline="92" endline="92" begincolumn="37" endcolumn="41" rule="AvoidReassigningParameters" ruleset="Design Rules" package="com.fg.ftree" class="GgFTree" method="findItemIndex" variable="index" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#AvoidReassigningParameters" priority="2">
+Avoid reassigning parameters such as 'index'
+</violation>
+<violation beginline="92" endline="92" begincolumn="37" endcolumn="41" rule="AvoidReassigningParameters" ruleset="Design Rules" package="com.fg.ftree" class="GgFTree" method="findItemIndex" variable="index" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#AvoidReassigningParameters" priority="2">
+Avoid reassigning parameters such as 'index'
+</violation>
+</file>
+<file name="J:\Git\github\waarp-digest\WaarpXmlEditor\src\main\java\com\fg\xmleditor\FXBasicView.java">
+<violation beginline="43" endline="43" begincolumn="72" endcolumn="83" rule="CompareObjectsWithEquals" ruleset="Design Rules" package="com.fg.xmleditor" class="FXBasicView$InnerListener" method="isSelectedNodeShowingChanged" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#CompareObjectsWithEquals" priority="3">
+Use equals() to compare object references.
+</violation>
+<violation beginline="66" endline="69" begincolumn="33" endcolumn="68" rule="ConfusingTernary" ruleset="Design Rules" package="com.fg.xmleditor" class="FXBasicView$InnerListener" method="selectedNodeShown" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#ConfusingTernary" priority="3">
+Avoid if (x != y) ..; else ..;
+</violation>
+<violation beginline="96" endline="97" begincolumn="17" endcolumn="17" rule="UncommentedEmptyMethod" ruleset="Design Rules" package="com.fg.xmleditor" class="FXBasicView$InnerListener" method="nodeWillCollapse" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#UncommentedEmptyMethod" priority="3">
+Document empty method
+</violation>
+<violation beginline="124" endline="124" begincolumn="48" endcolumn="62" rule="CompareObjectsWithEquals" ruleset="Design Rules" package="com.fg.xmleditor" class="FXBasicView$InnerListener" method="enteredExpansBar" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#CompareObjectsWithEquals" priority="3">
+Use equals() to compare object references.
+</violation>
+<violation beginline="143" endline="144" begincolumn="17" endcolumn="17" rule="UncommentedEmptyMethod" ruleset="Design Rules" package="com.fg.xmleditor" class="FXBasicView$InnerListener" method="cellEditingStarted" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#UncommentedEmptyMethod" priority="3">
+Document empty method
+</violation>
+<violation beginline="183" endline="183" begincolumn="46" endcolumn="78" rule="ConfusingTernary" ruleset="Design Rules" package="com.fg.xmleditor" class="FXBasicView$InnerListener" method="cellEditorValueChanged" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#ConfusingTernary" priority="3">
+Avoid if (x != y) ..; else ..;
+</violation>
+<violation beginline="185" endline="188" begincolumn="25" endcolumn="60" rule="ConfusingTernary" ruleset="Design Rules" package="com.fg.xmleditor" class="FXBasicView$InnerListener" method="cellEditorValueChanged" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#ConfusingTernary" priority="3">
+Avoid if (x != y) ..; else ..;
+</violation>
+<violation beginline="212" endline="232" begincolumn="25" endcolumn="25" rule="ConfusingTernary" ruleset="Design Rules" package="com.fg.xmleditor" class="FXBasicView$InnerListener" method="showPopup" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#ConfusingTernary" priority="3">
+Avoid if (x != y) ..; else ..;
+</violation>
+<violation beginline="241" endline="242" begincolumn="17" endcolumn="17" rule="UncommentedEmptyMethod" ruleset="Design Rules" package="com.fg.xmleditor" class="FXBasicView$InnerListener" method="mouseClicked" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#UncommentedEmptyMethod" priority="3">
+Document empty method
+</violation>
+<violation beginline="250" endline="251" begincolumn="17" endcolumn="17" rule="UncommentedEmptyMethod" ruleset="Design Rules" package="com.fg.xmleditor" class="FXBasicView$InnerListener" method="mouseEntered" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#UncommentedEmptyMethod" priority="3">
+Document empty method
+</violation>
+<violation beginline="254" endline="255" begincolumn="17" endcolumn="17" rule="UncommentedEmptyMethod" ruleset="Design Rules" package="com.fg.xmleditor" class="FXBasicView$InnerListener" method="mouseExited" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#UncommentedEmptyMethod" priority="3">
+Document empty method
+</violation>
+<violation beginline="294" endline="294" begincolumn="17" endcolumn="33" rule="ConstructorCallsOverridableMethod" ruleset="Design Rules" package="com.fg.xmleditor" class="FXBasicView" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#ConstructorCallsOverridableMethod" priority="1">
+Overridable method 'setFXModel' called during object construction
+</violation>
+<violation beginline="326" endline="326" begincolumn="17" endcolumn="55" rule="ConstructorCallsOverridableMethod" ruleset="Design Rules" package="com.fg.xmleditor" class="FXBasicView" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#ConstructorCallsOverridableMethod" priority="1">
+Overridable method 'setBackground' called during object construction
+</violation>
+<violation beginline="334" endline="334" begincolumn="17" endcolumn="33" rule="ConstructorCallsOverridableMethod" ruleset="Design Rules" package="com.fg.xmleditor" class="FXBasicView" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#ConstructorCallsOverridableMethod" priority="1">
+Overridable method 'createPopupMenu' called during object construction
+</violation>
+<violation beginline="342" endline="342" begincolumn="40" endcolumn="47" rule="AvoidReassigningParameters" ruleset="Design Rules" package="com.fg.xmleditor" class="FXBasicView" method="setFXModel" variable="newModel" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#AvoidReassigningParameters" priority="2">
+Avoid reassigning parameters such as 'newModel'
+</violation>
+<violation beginline="362" endline="363" begincolumn="9" endcolumn="9" rule="UncommentedEmptyMethod" ruleset="Design Rules" package="com.fg.xmleditor" class="FXBasicView" method="docValidityStatusChanged" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#UncommentedEmptyMethod" priority="3">
+Document empty method
+</violation>
+</file>
+<file name="J:\Git\github\waarp-digest\WaarpXmlEditor\src\main\java\org\waarp\xample\DlgAbout.java">
+<violation beginline="63" endline="63" begincolumn="36" endcolumn="48" rule="AvoidThreadGroup" ruleset="Basic Rules" package="org.waarp.xample" class="DlgAbout" method="jbInit" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#AvoidThreadGroup" priority="3">
+Avoid using java.lang.ThreadGroup; it is not thread safe
+</violation>
+</file>
+<file name="J:\Git\github\waarp-digest\WaarpXmlEditor\src\main\java\org\waarp\xample\FHistoryButton.java">
+<violation beginline="51" endline="52" begincolumn="5" endcolumn="5" rule="UncommentedEmptyMethod" ruleset="Design Rules" package="org.waarp.xample" class="FHistoryButton$Btn" method="mouseClicked" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#UncommentedEmptyMethod" priority="3">
+Document empty method
+</violation>
+<violation beginline="64" endline="64" begincolumn="45" endcolumn="46" rule="UncommentedEmptyMethod" ruleset="Design Rules" package="org.waarp.xample" class="FHistoryButton$Btn" method="mouseReleased" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#UncommentedEmptyMethod" priority="3">
+Document empty method
+</violation>
+<violation beginline="65" endline="65" begincolumn="44" endcolumn="45" rule="UncommentedEmptyMethod" ruleset="Design Rules" package="org.waarp.xample" class="FHistoryButton$Btn" method="mouseEntered" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#UncommentedEmptyMethod" priority="3">
+Document empty method
+</violation>
+<violation beginline="66" endline="66" begincolumn="43" endcolumn="44" rule="UncommentedEmptyMethod" ruleset="Design Rules" package="org.waarp.xample" class="FHistoryButton$Btn" method="mouseExited" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#UncommentedEmptyMethod" priority="3">
+Document empty method
+</violation>
+<violation beginline="67" endline="67" begincolumn="53" endcolumn="54" rule="UncommentedEmptyMethod" ruleset="Design Rules" package="org.waarp.xample" class="FHistoryButton$Btn" method="popupMenuCanceled" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#UncommentedEmptyMethod" priority="3">
+Document empty method
+</violation>
+<violation beginline="78" endline="79" begincolumn="5" endcolumn="5" rule="UncommentedEmptyMethod" ruleset="Design Rules" package="org.waarp.xample" class="FHistoryButton$Btn" method="popupMenuWillBecomeVisible" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#UncommentedEmptyMethod" priority="3">
+Document empty method
+</violation>
+<violation beginline="93" endline="93" begincolumn="5" endcolumn="17" rule="ConstructorCallsOverridableMethod" ruleset="Design Rules" package="org.waarp.xample" class="FHistoryButton" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#ConstructorCallsOverridableMethod" priority="1">
+Overridable method 'setIcon' called during object construction
+</violation>
+<violation beginline="108" endline="108" begincolumn="5" endcolumn="18" rule="ConstructorCallsOverridableMethod" ruleset="Design Rules" package="org.waarp.xample" class="FHistoryButton" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#ConstructorCallsOverridableMethod" priority="1">
+Overridable method 'setItems' called during object construction
+</violation>
+<violation beginline="184" endline="187" begincolumn="10" endcolumn="3" rule="ReturnEmptyArrayRatherThanNull" ruleset="Design Rules" package="org.waarp.xample" class="FHistoryButton" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#ReturnEmptyArrayRatherThanNull" priority="1">
+Return an empty array rather than null.
+</violation>
+</file>
+<file name="J:\Git\github\waarp-digest\WaarpXmlEditor\src\main\java\org\waarp\xample\History.java">
+<violation beginline="59" endline="59" begincolumn="18" endcolumn="35" rule="OverrideBothEqualsAndHashcode" ruleset="Basic Rules" package="org.waarp.xample" class="History" method="equals" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#OverrideBothEqualsAndHashcode" priority="3">
+Ensure you override both equals() and hashCode()
+</violation>
+<violation beginline="61" endline="61" begincolumn="9" endcolumn="48" rule="SimplifyConditional" ruleset="Design Rules" package="org.waarp.xample" class="History" method="equals" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#SimplifyConditional" priority="3">
+No need to check for null before an instanceof
+</violation>
+<violation beginline="90" endline="91" begincolumn="5" endcolumn="18" rule="BrokenNullCheck" ruleset="Basic Rules" package="org.waarp.xample" class="History" method="getFirstChild" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#BrokenNullCheck" priority="2">
+Method call on object which may be null
+</violation>
+<violation beginline="90" endline="90" begincolumn="26" endcolumn="35" rule="UseCollectionIsEmpty" ruleset="Design Rules" package="org.waarp.xample" class="History" method="getFirstChild" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#UseCollectionIsEmpty" priority="3">
+Substitute calls to size() == 0 (or size() != 0) with calls to isEmpty()
+</violation>
+</file>
+<file name="J:\Git\github\waarp-digest\WaarpXmlEditor\src\main\java\org\waarp\xample\HistoryIO.java">
+<violation beginline="24" endline="106" begincolumn="1" endcolumn="1" rule="UseSingleton" ruleset="Design Rules" package="org.waarp.xample" class="HistoryIO" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#UseSingleton" priority="3">
+All methods are static.  Consider using Singleton instead.  Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+</violation>
+<violation beginline="100" endline="101" begincolumn="7" endcolumn="5" rule="EmptyCatchBlock" ruleset="Basic Rules" package="org.waarp.xample" class="HistoryIO" method="save" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#EmptyCatchBlock" priority="3">
+Avoid empty catch blocks
+</violation>
+<violation beginline="102" endline="102" begincolumn="28" endcolumn="54" rule="EmptyCatchBlock" ruleset="Basic Rules" package="org.waarp.xample" class="HistoryIO" method="save" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#EmptyCatchBlock" priority="3">
+Avoid empty catch blocks
+</violation>
+</file>
+<file name="J:\Git\github\waarp-digest\WaarpXmlEditor\src\main\java\org\waarp\xample\XAmple.java">
+<violation beginline="282" endline="283" begincolumn="27" endcolumn="25" rule="EmptyCatchBlock" ruleset="Basic Rules" package="org.waarp.xample" class="XAmple" method="saveRuntimeProperties" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#EmptyCatchBlock" priority="3">
+Avoid empty catch blocks
+</violation>
+<violation beginline="292" endline="296" begincolumn="25" endcolumn="25" rule="CollapsibleIfStatements" ruleset="Basic Rules" package="org.waarp.xample" class="XAmple" method="processWindowEvent" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#CollapsibleIfStatements" priority="3">
+These nested if statements could be combined
+</violation>
+<violation beginline="307" endline="307" begincolumn="21" endcolumn="40" rule="CompareObjectsWithEquals" ruleset="Design Rules" package="org.waarp.xample" class="XAmple" method="itemStateChanged" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#CompareObjectsWithEquals" priority="3">
+Use equals() to compare object references.
+</violation>
+<violation beginline="309" endline="309" begincolumn="26" endcolumn="45" rule="CompareObjectsWithEquals" ruleset="Design Rules" package="org.waarp.xample" class="XAmple" method="itemStateChanged" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#CompareObjectsWithEquals" priority="3">
+Use equals() to compare object references.
+</violation>
+<violation beginline="317" endline="317" begincolumn="21" endcolumn="40" rule="CompareObjectsWithEquals" ruleset="Design Rules" package="org.waarp.xample" class="XAmple" method="actionPerformed" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#CompareObjectsWithEquals" priority="3">
+Use equals() to compare object references.
+</violation>
+<violation beginline="317" endline="317" begincolumn="45" endcolumn="62" rule="CompareObjectsWithEquals" ruleset="Design Rules" package="org.waarp.xample" class="XAmple" method="actionPerformed" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#CompareObjectsWithEquals" priority="3">
+Use equals() to compare object references.
+</violation>
+<violation beginline="319" endline="319" begincolumn="26" endcolumn="45" rule="CompareObjectsWithEquals" ruleset="Design Rules" package="org.waarp.xample" class="XAmple" method="actionPerformed" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#CompareObjectsWithEquals" priority="3">
+Use equals() to compare object references.
+</violation>
+<violation beginline="319" endline="319" begincolumn="50" endcolumn="67" rule="CompareObjectsWithEquals" ruleset="Design Rules" package="org.waarp.xample" class="XAmple" method="actionPerformed" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#CompareObjectsWithEquals" priority="3">
+Use equals() to compare object references.
+</violation>
+<violation beginline="321" endline="321" begincolumn="26" endcolumn="44" rule="CompareObjectsWithEquals" ruleset="Design Rules" package="org.waarp.xample" class="XAmple" method="actionPerformed" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#CompareObjectsWithEquals" priority="3">
+Use equals() to compare object references.
+</violation>
+<violation beginline="321" endline="321" begincolumn="49" endcolumn="65" rule="CompareObjectsWithEquals" ruleset="Design Rules" package="org.waarp.xample" class="XAmple" method="actionPerformed" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#CompareObjectsWithEquals" priority="3">
+Use equals() to compare object references.
+</violation>
+<violation beginline="323" endline="323" begincolumn="26" endcolumn="45" rule="CompareObjectsWithEquals" ruleset="Design Rules" package="org.waarp.xample" class="XAmple" method="actionPerformed" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#CompareObjectsWithEquals" priority="3">
+Use equals() to compare object references.
+</violation>
+<violation beginline="323" endline="323" begincolumn="50" endcolumn="67" rule="CompareObjectsWithEquals" ruleset="Design Rules" package="org.waarp.xample" class="XAmple" method="actionPerformed" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#CompareObjectsWithEquals" priority="3">
+Use equals() to compare object references.
+</violation>
+<violation beginline="325" endline="325" begincolumn="26" endcolumn="48" rule="CompareObjectsWithEquals" ruleset="Design Rules" package="org.waarp.xample" class="XAmple" method="actionPerformed" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#CompareObjectsWithEquals" priority="3">
+Use equals() to compare object references.
+</violation>
+<violation beginline="327" endline="327" begincolumn="26" endcolumn="47" rule="CompareObjectsWithEquals" ruleset="Design Rules" package="org.waarp.xample" class="XAmple" method="actionPerformed" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#CompareObjectsWithEquals" priority="3">
+Use equals() to compare object references.
+</violation>
+<violation beginline="329" endline="329" begincolumn="26" endcolumn="42" rule="CompareObjectsWithEquals" ruleset="Design Rules" package="org.waarp.xample" class="XAmple" method="actionPerformed" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#CompareObjectsWithEquals" priority="3">
+Use equals() to compare object references.
+</violation>
+<violation beginline="333" endline="333" begincolumn="26" endcolumn="41" rule="CompareObjectsWithEquals" ruleset="Design Rules" package="org.waarp.xample" class="XAmple" method="actionPerformed" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#CompareObjectsWithEquals" priority="3">
+Use equals() to compare object references.
+</violation>
+<violation beginline="335" endline="335" begincolumn="26" endcolumn="40" rule="CompareObjectsWithEquals" ruleset="Design Rules" package="org.waarp.xample" class="XAmple" method="actionPerformed" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#CompareObjectsWithEquals" priority="3">
+Use equals() to compare object references.
+</violation>
+<violation beginline="360" endline="361" begincolumn="35" endcolumn="33" rule="EmptyCatchBlock" ruleset="Basic Rules" package="org.waarp.xample" class="XAmple" method="updateLookAndFeel" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#EmptyCatchBlock" priority="3">
+Avoid empty catch blocks
+</violation>
+<violation beginline="490" endline="491" begincolumn="35" endcolumn="33" rule="EmptyCatchBlock" ruleset="Basic Rules" package="org.waarp.xample" class="XAmple" method="saveXML" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#EmptyCatchBlock" priority="3">
+Avoid empty catch blocks
+</violation>
+<violation beginline="494" endline="495" begincolumn="35" endcolumn="33" rule="EmptyCatchBlock" ruleset="Basic Rules" package="org.waarp.xample" class="XAmple" method="saveXML" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#EmptyCatchBlock" priority="3">
+Avoid empty catch blocks
+</violation>
+<violation beginline="598" endline="599" begincolumn="9" endcolumn="9" rule="UncommentedEmptyMethod" ruleset="Design Rules" package="org.waarp.xample" class="XAmple" method="newDocumentLoaded" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#UncommentedEmptyMethod" priority="3">
+Document empty method
+</violation>
+<violation beginline="602" endline="603" begincolumn="9" endcolumn="9" rule="UncommentedEmptyMethod" ruleset="Design Rules" package="org.waarp.xample" class="XAmple" method="docValidityStatusChanged" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#UncommentedEmptyMethod" priority="3">
+Document empty method
+</violation>
+<violation beginline="622" endline="623" begincolumn="27" endcolumn="25" rule="EmptyCatchBlock" ruleset="Basic Rules" package="org.waarp.xample" class="XAmple" method="assignDefaultFont" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#EmptyCatchBlock" priority="3">
+Avoid empty catch blocks
+</violation>
+<violation beginline="630" endline="631" begincolumn="27" endcolumn="25" rule="EmptyCatchBlock" ruleset="Basic Rules" package="org.waarp.xample" class="XAmple" method="assignDefaultFont" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#EmptyCatchBlock" priority="3">
+Avoid empty catch blocks
+</violation>
+<violation beginline="664" endline="667" begincolumn="25" endcolumn="107" rule="ConfusingTernary" ruleset="Design Rules" package="org.waarp.xample" class="XAmple" method="main" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#ConfusingTernary" priority="3">
+Avoid if (x != y) ..; else ..;
+</violation>
+<violation beginline="678" endline="679" begincolumn="27" endcolumn="25" rule="EmptyCatchBlock" ruleset="Basic Rules" package="org.waarp.xample" class="XAmple" method="main" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#EmptyCatchBlock" priority="3">
+Avoid empty catch blocks
+</violation>
+</file>
+<file name="J:\Git\github\waarp-digest\WaarpXmlEditor\src\main\java\org\waarp\xample\custnodes\FFileDialog.java">
+<violation beginline="59" endline="61" begincolumn="36" endcolumn="13" rule="EmptyIfStmt" ruleset="Basic Rules" package="org.waarp.xample.custnodes" class="FFileDialog$FileExtFilter" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#EmptyIfStmt" priority="3">
+Avoid empty if statements
+</violation>
+<violation beginline="70" endline="70" begincolumn="36" endcolumn="54" rule="UseLocaleWithCaseConversions" ruleset="Design Rules" package="org.waarp.xample.custnodes" class="FFileDialog$FileExtFilter" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#UseLocaleWithCaseConversions" priority="3">
+When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+</violation>
+<violation beginline="95" endline="95" begincolumn="11" endcolumn="25" rule="UseCollectionIsEmpty" ruleset="Design Rules" package="org.waarp.xample.custnodes" class="FFileDialog$FileExtFilter" method="accept" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#UseCollectionIsEmpty" priority="3">
+Substitute calls to size() == 0 (or size() != 0) with calls to isEmpty()
+</violation>
+<violation beginline="188" endline="204" begincolumn="5" endcolumn="40" rule="ConfusingTernary" ruleset="Design Rules" package="org.waarp.xample.custnodes" class="FFileDialog" method="updateCellControl" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#ConfusingTernary" priority="3">
+Avoid if (x != y) ..; else ..;
+</violation>
+</file>
+</pmd>
