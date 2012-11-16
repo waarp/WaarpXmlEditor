@@ -15,6 +15,7 @@ local.properties
 .classpath
 .settings/
 .loadpath
+history.xml
 
 # External tool builders
 .externalToolBuilders/
@@ -47,3 +48,4 @@ Desktop.ini
 
 /target
 /history.xml
+/runtime.properties
