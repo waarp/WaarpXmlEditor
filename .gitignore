@@ -15,6 +15,7 @@ local.properties
 .classpath
 .settings/
 .loadpath
+history.xml
 
 # External tool builders
 .externalToolBuilders/
@@ -46,3 +47,5 @@ Thumbs.db
 Desktop.ini
 
 /target
+/history.xml
+/runtime.properties
